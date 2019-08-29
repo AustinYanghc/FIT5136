@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Seeker()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Seeker\n
+comment1.params=skills\ type\ salary
+comment1.target=Seeker(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSkillsets()
+comment3.params=
+comment3.target=java.lang.String\ getTypeOfJob()
+comment4.params=
+comment4.target=java.lang.String\ getCompensationLevel()
+comment5.params=skillsets
+comment5.target=void\ setSkillsets(java.lang.String)
+comment6.params=typeOfJob
+comment6.target=void\ setTypeOfJob(java.lang.String)
+comment7.params=compensationLevel
+comment7.target=void\ setCompensationLevel(java.lang.String)
+numComments=8

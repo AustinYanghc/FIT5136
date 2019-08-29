@@ -1,0 +1,6 @@
+user1,John,pw1,author,information technology,Monash university
+user2,Mary,pw2,reviewer,art,RMIT
+user3,Tom,pw3,reviewer,information technology,Wollongong university
+user4,Jane,pw4,chair,information technology,University of Melbourne
+user5,Jane,pw5,admin,information technology,University of Melbourne
+das,zcxz,asda,author/reviewer,asd,asd

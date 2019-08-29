@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Application()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Application\n
+comment1.params=
+comment1.target=java.lang.String\ getApplicationId()
+comment2.params=
+comment2.target=java.lang.String\ getUserName()
+comment3.params=
+comment3.target=java.lang.String\ getJobId()
+comment4.params=
+comment4.target=java.lang.String\ getState()
+comment5.params=applicationId
+comment5.target=void\ setApplicationId(java.lang.String)
+comment6.params=userId
+comment6.target=void\ setUserId(java.lang.String)
+comment7.params=jobId
+comment7.target=void\ setJobId(java.lang.String)
+comment8.params=state
+comment8.target=void\ setState(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ printApplication()
+numComments=10

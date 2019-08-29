@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Recruiter()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Recruiter\n
+comment1.params=categoryList
+comment1.target=void\ setJobCategory(java.util.ArrayList)
+comment2.params=
+comment2.target=java.util.ArrayList\ getJobCategory()
+comment3.params=category
+comment3.target=void\ addCategory(java.lang.String)
+comment4.params=category
+comment4.target=void\ deleteCategory(java.lang.String)
+numComments=5

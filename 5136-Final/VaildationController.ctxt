@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VaildationController()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ VaildationController\n
+comment1.params=checkString
+comment1.target=boolean\ isNumber(java.lang.String)
+comment10.params=phoneNumber
+comment10.target=boolean\ checkPhone(java.lang.String)
+comment2.params=checkString
+comment2.target=boolean\ isAlphabetOrDigit(java.lang.String)
+comment3.params=content
+comment3.target=java.lang.String\ hex(java.lang.String)
+comment4.params=email
+comment4.target=boolean\ checkEmail(java.lang.String)
+comment5.params=userName
+comment5.target=boolean\ checkExist(java.lang.String)
+comment6.params=userName\ password
+comment6.target=boolean\ checkLogin(java.lang.String,\ java.lang.String)
+comment7.params=userName\ type
+comment7.target=boolean\ checkType(java.lang.String,\ java.lang.String)
+comment8.params=checkString
+comment8.target=boolean\ checkName(java.lang.String)
+comment9.params=userName
+comment9.target=java.lang.String\ getType(java.lang.String)
+numComments=11

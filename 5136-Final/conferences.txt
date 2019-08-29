@@ -1,0 +1,2 @@
+conference1,IT conference 1,conference title 1,Information technology,monash caulfield campus,12/10/2017,11/11/2017,user4
+conference2,IT conference 2,conference title 2,Information technology,monash clayton campus,11/10/2017,30/10/2017,user4

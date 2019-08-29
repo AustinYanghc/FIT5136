@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SeekerController()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ SeekerController\n
+comment1.params=newSeeker
+comment1.target=void\ createUser(User)
+comment10.params=userName
+comment10.target=java.util.ArrayList\ showApplication(java.lang.String)
+comment11.params=userName
+comment11.target=java.lang.String[]\ showSeekerInfo(java.lang.String)
+comment2.params=skills\ type\ salary\ userName
+comment2.target=void\ createSeeker(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=userName\ skillsets\ typeOfJob\ salary
+comment3.target=void\ modifySeeker(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=skills\ typesOfJobs\ location\ compensationLevel
+comment4.target=java.util.ArrayList\ searchJob(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=jobList\ skills\ compensationLevel
+comment5.target=java.util.ArrayList\ rankJobList(java.util.ArrayList,\ java.lang.String,\ java.lang.String)
+comment6.params=skills\ compareSkills
+comment6.target=int\ skillCompare(java.lang.String,\ java.lang.String)
+comment7.params=userName\ jobId
+comment7.target=void\ applyJob(java.lang.String,\ java.lang.String)
+comment8.params=userName
+comment8.target=java.util.ArrayList\ receiveNotification(java.lang.String)
+comment9.params=userName
+comment9.target=java.lang.String\ showSkillsets(java.lang.String)
+numComments=12
